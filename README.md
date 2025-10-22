@@ -46,12 +46,12 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Raghav-s-Projects/stellar-studios-website.git)
+git clone [https://github.com/Raghav-s-Projects/stellar-studios-website.git](https://github.com/Raghav-s-Projects/stellar-studios-website.git)
 
 
 Navigate to the project directory:
 
-cd your-repo-name
+cd stellar-studios-website
 
 
 Open the file:
