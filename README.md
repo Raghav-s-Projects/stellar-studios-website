@@ -2,7 +2,7 @@ Stellar Studios - A Modern Single-File Web App
 
 This project is a sleek, single-file web app for 'Stellar Studios,' a fictional creative agency. JavaScript powers its smooth, multi-page navigation without reloads. Features include engaging animations and an interactive portfolio with detailed project pop-ups. Built entirely with HTML, Tailwind CSS, and vanilla JS.
 
-Live Demo: https://your-username.github.io/your-repo-name/
+Live Demo: https://Raghav-s-Projects.github.io/stellar-studios-website/
 
 ✨ Features
 
